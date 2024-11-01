@@ -6,8 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+config.php
 .prettierrc
-.config.php
 .htaccess
 
 node_modules
@@ -24,4 +24,5 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+
+config.php
